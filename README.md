@@ -8,3 +8,9 @@
 - ⚡ Fun fact: Wi-Fi signals can be used to count people in a room, even if they don't have a device.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre-Diamond&theme=dark)](https://git.io/streak-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
