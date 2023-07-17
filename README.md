@@ -9,4 +9,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Andre-Diamond&theme=dark)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/Andre-Diamond/Andre-Diamond/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Andre-Diamond/Andre-Diamond/blob/output/github-contribution-grid-snake.svg)
