@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on CGO's [Catalyst-Parameters-Dashboard](https://github.com/Catalyst-Auditing/Catalyst-Parameters-Dashboard), SNET Archive workgroup's [archive-oracle](https://github.com/SingularityNET-Archive/archive-oracle) and Treasury Guild's [treasury-dapp](https://github.com/treasuryguild/treasury-dapp) and [treasury-dashboard](https://github.com/treasuryguild/treasury-dashboard)
+- 🔭 I’m currently working on [Catalyst-Parameters-Dashboard](https://github.com/Catalyst-Auditing/Catalyst-Parameters-Dashboard), [archive-oracle](https://github.com/SingularityNET-Archive/archive-oracle) and Treasury Guild's [treasury-dapp](https://github.com/treasuryguild/treasury-dapp) and [treasury-dashboard](https://github.com/treasuryguild/treasury-dashboard)
 - 🌱 I’m currently learning vector similarity search
 - 👯 I’m looking to collaborate on governance tools
 - 💬 Ask me about Cardano, Project Catalyst and Singularity NET
