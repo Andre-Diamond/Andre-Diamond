@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [archive-oracle](https://github.com/SingularityNET-Archive/archive-oracle) and Treasury Guild's [treasury-dapp](https://github.com/treasuryguild/treasury-dapp) and [treasury-dashboard](https://github.com/treasuryguild/treasury-dashboard)
-- 🌱 I’m currently learning Midnight
+- 🌱 I’m currently learning [Midnight](https://midnight.network)
 - 👯 I’m looking to collaborate on governance tools
 - 💬 Ask me about Cardano, Project Catalyst and Singularity NET
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andré-diamond-45871242/)
